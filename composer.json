@@ -1,0 +1,21 @@
+{
+    "name": "madredfox/yii2-image-uploader",
+    "description": "Library for images upload\handle. Mostly created for private purposes",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "MadRedFox",
+            "email": "chiffa88@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SFImages\\": ""
+        }
+    }
+}
